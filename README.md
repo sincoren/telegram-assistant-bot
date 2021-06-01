@@ -10,5 +10,5 @@ Here's a telegram assistant bot that helps
 
 As this bot was written for telegram and the telegram app by default download files sent to your chat, I decided to use just link to Gooogle docs so people won't need to download materials.
 
-to try out the bot find it in telegram:
+To try out the bot find it in telegram:
 stas_levelup_bot
